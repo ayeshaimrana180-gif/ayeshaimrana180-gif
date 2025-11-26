@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayesha-imran&show_icons=true&locale=en" alt="ayesha-imran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-imran&180-gif" alt="ayesha-imran" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-imran180-gif" alt="ayesha-imran" /></p>
 
