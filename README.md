@@ -27,7 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha-imran180-gifshow_icons=true&locale=en&layout=compact" alt="ayesha-imran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayesha-imran180-gifshow_icons=true&locale=en" alt="ayesha-imran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-imrana180-gif" alt="ayesha-imran" /></p>
 <p><img align="center" src="https://camo.githubusercontent.com/c4c3f27172295114832df375098d069819358173e6fd1160eb69e4a00cfe437c/68747470733a2f2f692e696d6775722e636f6d2f625572736a6c702e706e67">/</p>
